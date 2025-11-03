@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdf-merger-js": "^4.2.0",
+    "pdf-merger-js": "^4.3.1",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
